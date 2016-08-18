@@ -1,5 +1,7 @@
 # swagger-loader for Webpack
 
+[![Build Status](https://travis-ci.org/mbaasy/swagger-loader.svg?branch=master)](https://travis-ci.org/mbaasy/swagger-loader) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+
 ## Usage
 
 ```javascript
