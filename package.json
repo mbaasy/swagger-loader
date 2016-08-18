@@ -1,0 +1,33 @@
+{
+  "name": "swagger-loader",
+  "version": "0.0.1",
+  "description": "Webpack Swagger Loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node ./test/index.js"
+  },
+  "author": {
+    "name": "Mbaasy, Inc",
+    "email": "hello@mbaasy.com",
+    "url": "https://mbaasy.com"
+  },
+  "contributors": [
+    {
+      "name": "Marc Greenstock",
+      "email": "marc@mbaasy.com",
+      "url": "https://github.com/marcgreenstock"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.15",
+    "swagger-parser": "^3.4.1"
+  },
+  "devDependencies": {
+    "json-loader": "^0.5.4",
+    "memory-fs": "^0.3.0",
+    "raw-loader": "^0.5.1",
+    "standard": "^7.1.2",
+    "webpack": "^1.13.2"
+  }
+}
