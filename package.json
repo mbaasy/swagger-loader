@@ -1,6 +1,6 @@
 {
   "name": "swagger-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack Swagger Loader",
   "main": "index.js",
   "scripts": {
